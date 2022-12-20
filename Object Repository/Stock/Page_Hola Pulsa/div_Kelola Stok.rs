@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kelola Stok</name>
+   <tag></tag>
+   <elementGuidId>2465ba99-f578-4097-9521-ec6522bdb715</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/a[4]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>68b3a442-8a03-474e-9980-a15ef89c8008</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-item</value>
+      <webElementGuid>83ca4c20-8c33-44de-88d3-09f672a46a53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kelola Stok</value>
+      <webElementGuid>3be0fb5d-538f-448c-b012-9e98b1a9884d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;sidebar&quot;]/div[2]/a[@class=&quot;list-menu d-flex flex-row&quot;]/div[@class=&quot;d-flex flex-row gap-2&quot;]/div[@class=&quot;list-item&quot;]</value>
+      <webElementGuid>6c668dd4-1170-43bb-9ac5-4b3cf13471c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/a[4]/div/div[2]</value>
+      <webElementGuid>9a70bdcf-7e5f-4417-961b-d971ae4061e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kelola Transaksi'])[1]/following::div[3]</value>
+      <webElementGuid>0e46f5c1-8932-4f42-8177-e7a669e3ed91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pelanggan'])[1]/following::div[6]</value>
+      <webElementGuid>2f68b390-de4d-4553-bee7-bd227cb96bd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pulsa'])[1]/preceding::div[1]</value>
+      <webElementGuid>49660e68-b34f-4b46-a434-5cab6d351ef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paket Data'])[1]/preceding::div[2]</value>
+      <webElementGuid>84d9dfe4-2112-4547-88b5-bf1df756430d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kelola Stok']/parent::*</value>
+      <webElementGuid>8bd5082e-577b-421b-9d5a-484d682f72ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/div/div[2]</value>
+      <webElementGuid>18bf8572-0ca6-45b0-a50b-921cb300d92d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kelola Stok' or . = 'Kelola Stok')]</value>
+      <webElementGuid>e0999459-02d5-40e3-b4d3-9cbe836fa85e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

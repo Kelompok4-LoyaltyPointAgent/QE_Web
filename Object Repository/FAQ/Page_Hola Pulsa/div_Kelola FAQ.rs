@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kelola FAQ</name>
+   <tag></tag>
+   <elementGuidId>a0343064-458a-4ca9-b6dd-f48fd6cdc441</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/div[2]/a[5]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>202595c4-5262-4c2d-bda5-e3244002b276</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>list-item</value>
+      <webElementGuid>82e46b5c-fae0-458e-8ca8-9191475a90bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kelola FAQ</value>
+      <webElementGuid>d5eb41f3-fdf8-4f55-bcd1-7b15a725bb2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;sidebar&quot;]/div[2]/a[@class=&quot;list-menu d-flex flex-row&quot;]/div[@class=&quot;d-flex flex-row gap-2&quot;]/div[@class=&quot;list-item&quot;]</value>
+      <webElementGuid>cf48166a-a84e-4ebd-bac1-d313b4ea6dd2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/div[2]/a[5]/div/div[2]</value>
+      <webElementGuid>c6219d83-1bb5-4c65-ae9b-c39118b62528</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paket Data'])[1]/following::div[3]</value>
+      <webElementGuid>e0b34a51-5ea9-4c66-9103-48b82b189b51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pulsa'])[1]/following::div[4]</value>
+      <webElementGuid>dc7923a6-a800-4a39-b454-bd7b2bcb4d5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feedback'])[1]/preceding::div[2]</value>
+      <webElementGuid>5c39ca99-f5e9-4f6c-9b6b-c42e6fd14f9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kelola FAQ']/parent::*</value>
+      <webElementGuid>7bfa9d04-5bc9-4e41-b194-4aab4b7bdd9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/div/div[2]</value>
+      <webElementGuid>22b978a9-234a-48fe-9add-1a7749157bc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kelola FAQ' or . = 'Kelola FAQ')]</value>
+      <webElementGuid>99765210-f7b8-4111-873c-df8270ef9314</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

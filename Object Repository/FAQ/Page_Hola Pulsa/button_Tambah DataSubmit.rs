@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Tambah DataSubmit</name>
+   <tag></tag>
+   <elementGuidId>642fbc70-8dea-4e12-a189-5fa12ab8a91a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-success.mx-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>11340e7f-4c9f-47a4-abb7-5b45d5dec589</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>4cc05544-cf7d-47b4-9e43-4c76c32674a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success mx-3</value>
+      <webElementGuid>fa155aa7-87a3-4480-b344-1c4b1c48012e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Data</value>
+      <webElementGuid>89725cbc-3033-4c9f-9ce1-73659408d2bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;w-100&quot;]/div[@class=&quot;mt-4 ps-3 pe-3 w-100&quot;]/div[@class=&quot;box-overflow card&quot;]/div[@class=&quot;MuiBox-root css-19kzrtu&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-9l3uo3&quot;]/div[@class=&quot;w-100&quot;]/div[@class=&quot;popup-box&quot;]/div[@class=&quot;box&quot;]/form[1]/div[@class=&quot;button mt-4&quot;]/center[1]/button[@class=&quot;btn btn-success mx-3&quot;]</value>
+      <webElementGuid>2ed2cd21-4c17-4a64-b2e9-01ab4171c5bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>7e2cc350-b338-48a0-83fc-4f793a35054e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div/div[2]/p/div/div/div/form/div[4]/center/button</value>
+      <webElementGuid>5f949413-4e96-4af0-8cc5-b02e59c4dd86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori'])[1]/following::button[1]</value>
+      <webElementGuid>7004a475-7358-4cb2-85f3-90398708f917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jawaban'])[1]/following::button[1]</value>
+      <webElementGuid>110cc1b8-79f0-457f-a990-11fbac77ed31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::button[1]</value>
+      <webElementGuid>ab081c6a-c2b1-4c4c-85c3-85940e020634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Item'])[1]/preceding::button[2]</value>
+      <webElementGuid>de314050-626f-416e-a02a-369bb84ff970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//center/button</value>
+      <webElementGuid>ebfb676b-ac53-4080-95f2-548529038f94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Tambah Data' or . = 'Tambah Data')]</value>
+      <webElementGuid>d48f6abb-41d2-47cf-ae5e-336af52f48f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

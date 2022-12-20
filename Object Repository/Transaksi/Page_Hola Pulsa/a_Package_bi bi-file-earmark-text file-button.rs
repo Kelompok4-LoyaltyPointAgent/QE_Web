@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Package_bi bi-file-earmark-text file-button</name>
+   <tag></tag>
+   <elementGuidId>60d18559-52d3-49f2-98ae-b43aa89629c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div[2]/div[2]/p/div/table/tbody/tr/td[8]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.bi.bi-file-earmark-text.file-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f2225e72-d017-407e-bdd9-ae7f50eedf2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bi bi-file-earmark-text file-button</value>
+      <webElementGuid>1d5c8814-73a3-4e42-b987-f89eb8fcfd9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/kelolatransaksi/detail/32fc370c-0d3f-47ee-b194-5ce8910f1eee</value>
+      <webElementGuid>356de0de-82e3-47b2-942f-5df4fce1d9c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;d-flex&quot;]/div[@class=&quot;w-100&quot;]/div[@class=&quot;ps-3 pe-3 w-100 main-overflow judulT&quot;]/div[@class=&quot;MuiBox-root css-0&quot;]/p[@class=&quot;MuiTypography-root MuiTypography-body1 css-9l3uo3&quot;]/div[@class=&quot;w-100&quot;]/table[@class=&quot;tablesT&quot;]/tbody[@class=&quot;text-center&quot;]/tr[1]/td[@class=&quot;col-1&quot;]/a[@class=&quot;bi bi-file-earmark-text file-button&quot;]</value>
+      <webElementGuid>8de927ae-15c4-458c-b524-01f957629ab8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div[2]/div[2]/p/div/table/tbody/tr/td[8]/a</value>
+      <webElementGuid>3eec42d8-fbea-463e-8723-1dcc428c91ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/kelolatransaksi/detail/32fc370c-0d3f-47ee-b194-5ce8910f1eee')]</value>
+      <webElementGuid>95ed5917-78fc-41fc-8bb2-298fca04d9b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[8]/a</value>
+      <webElementGuid>b4f1b036-e2b2-43e7-87af-45b77f87314b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/kelolatransaksi/detail/32fc370c-0d3f-47ee-b194-5ce8910f1eee']</value>
+      <webElementGuid>4d7a7b47-45b6-475f-a924-bb78d662b39f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
